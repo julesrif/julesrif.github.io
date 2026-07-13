@@ -33,33 +33,28 @@ The transition from conceptual design (Week 6) to the implemented pipeline (Week
 
 ### Case Study: Responsible Deployment
 
-**What** - When the *openAccessPdf* was unavailable, my system extracted only the abstract and assigned a low confidence flag, which always triggered a silent Discard Reference event.
+**What:** When the *openAccessPdf* was unavailable, my system extracted only the abstract and assigned a low confidence flag, which always triggered a silent Discard Reference event.
 
-**So What** - The system truncated the investigation tree based on commercial accessibility rather than academic relevance, introducing survival bias ([Cemri et al., 2025](#ref-cemri-2025)) and a significant validity risk in scientific automation.
+**So What:** The system truncated the investigation tree based on commercial accessibility rather than academic relevance, introducing survival bias ([Cemri et al., 2025](#ref-cemri-2025)) and a significant validity risk in scientific automation.
 
-**Now What** - I engineered the pipeline to trigger the Elsevier Academic API as an unavoidable fallback, guaranteeing full-text extraction. Future systems will apply strict quality barriers at ingestion: halt or escalate when minimum context is unavailable, instead of propagating noise.
+**Now What:** I engineered the pipeline to trigger the Elsevier Academic API as an unavoidable fallback, guaranteeing full-text extraction. Future systems will apply strict quality barriers at ingestion: halt or escalate when minimum context is unavailable, instead of propagating noise.
 
 ### Case Study: AI Safety Constraints
 
-**What** - The Challenger agent had a bounded autonomy mechanism (Debate Retry ≤ 3), but in my initial implementation it failed to consume this budget autonomously, aborting the cycle prematurely.
+**What:** The Challenger agent had a bounded autonomy mechanism (Debate Retry ≤ 3), but in my initial implementation it failed to consume this budget autonomously, aborting the cycle prematurely.
 
-**So What** - By delegating control early, the system broke the defence-in-depth model ([Du et al., 2023](#ref-du-2023)), increasing operator cognitive workload ([Mosqueira-Rey et al., 2023](#ref-mosqueira-2023)) and risking approval below the scrutiny level the system itself could reach.
+**So What:** By delegating control early, the system broke the defence-in-depth model ([Du et al., 2023](#ref-du-2023)), increasing operator cognitive workload ([Mosqueira-Rey et al., 2023](#ref-mosqueira-2023)) and risking approval below the scrutiny level the system itself could reach.
 
-**Now What** - I implemented a self-critical iteration loop where the Challenger self-executes until it exhausts its limit. Future deployments will incorporate strict state assertion tests to ensure bounded autonomy mechanisms fully exhaust their operative margins before triggering human intervention.
+**Now What:** I implemented a self-critical iteration loop where the Challenger self-executes until it exhausts its limit. Future deployments will incorporate strict state assertion tests to ensure bounded autonomy mechanisms fully exhaust their operative margins before triggering human intervention.
 
 ### Case Study: Explainable AI
 
-**What** - I implemented an active explainability mechanism within the HITL Gates: visual breadcrumbs tracking the exact lineage from selected paper to seed paper, with step-by-step semantic evolution instead of A-Z comparison.
+**What:** I implemented an active explainability mechanism within the HITL Gates: visual breadcrumbs tracking the exact lineage from selected paper to seed paper, with step-by-step semantic evolution instead of A-Z comparison.
 
-**So What** - A-Z comparison would be cheaper but analytically weaker. Exposing the intermediate graph turns an opaque LLM prediction into a reasoning-thread, ensuring the user's approval is well-informed human control rather than an act of faith ([Arrieta et al., 2020](#ref-arrieta-2020)).
+**So What:** A-Z comparison would be cheaper but analytically weaker. Exposing the intermediate graph turns an opaque LLM prediction into a reasoning-thread, ensuring the user's approval is well-informed human control rather than an act of faith ([Arrieta et al., 2020](#ref-arrieta-2020)).
 
-**Now What** - Visual lineage mapping is a baseline functional requirement for any autonomous AI system. An analytical output that cannot be logically and visually tracked is a defective product from a responsible engineering standpoint.
+**Now What:** Visual lineage mapping is a baseline functional requirement for any autonomous AI system. An analytical output that cannot be logically and visually tracked is a defective product from a responsible engineering standpoint.
 
-### Emotional Response and Analysis
-
-Our team comprised a medical doctor, a statistician, and myself as the sole software development professional, plus a fourth member who was absent from day one. I documented the absence, escalated to the tutor, and redistributed the workload.
-
-To guarantee delivery, I deployed our collaboration infrastructure (Jira, Google Drive, WhatsApp) and chaired all twice-weekly meetings. This achieved the technical objectives but revealed the flaw in my management style of assuming direct control rather than facilitating collective ownership. The tutor's feedback validated this self-assessment. Moving forward, my focus will be on deliberate delegation, holding back to create space for collective ownership even when my instinct is to take control.
 
 ---
 
