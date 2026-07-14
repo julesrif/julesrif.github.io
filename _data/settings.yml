@@ -1,0 +1,35 @@
+#-------------------------------
+# General Site Settings
+title: Julio Espinosa Rifel
+logo:
+description: ePortfolio — MSc in Artificial Intelligence, University of Essex Online
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: Julio Espinosa Rifel
+  image: profile.jpg
+  say-hello: Hi, I'm <strong>Julio Espinosa Rifel</strong>
+  bio: Data Engineer leveraging AI agents and MCP integrations to supercharge data platforms. Currently pursuing an <strong>MSc in Artificial Intelligence</strong> at the University of Essex Online.
+
+
+#-------------------------------
+# Contact links
+linkedin: https://www.linkedin.com/in/julioespinosa/
+github: https://github.com/julesrif
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier:
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: false
+
+
+#-------------------------------
+# Google Analytics
+google-analytics:

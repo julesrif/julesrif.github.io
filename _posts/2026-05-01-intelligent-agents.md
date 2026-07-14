@@ -6,8 +6,6 @@ image: intelligent-agents.jpg
 tags: Module
 ---
 
-[← Back to Home](./)
-
 **Contents:**
 - [Learning Outcomes](#learning-outcomes)
 - [Final Project: Multi-Agent Conceptual Drift Analyser](#final-project-multi-agent-conceptual-drift-analyser)
