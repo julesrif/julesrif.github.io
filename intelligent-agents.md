@@ -5,6 +5,27 @@ title: "Intelligent Agents - ePortfolio"
 
 [← Back to Home](./)
 
+**Contents:**
+- [Learning Outcomes](#learning-outcomes)
+- [Final Project: Multi-Agent Conceptual Drift Analyser](#final-project-multi-agent-conceptual-drift-analyser)
+- [Reflective Piece](#reflective-piece)
+  - [Case Study: Responsible Deployment](#case-study-responsible-deployment)
+  - [Case Study: AI Safety Constraints](#case-study-ai-safety-constraints)
+  - [Case Study: Explainable AI](#case-study-explainable-ai)
+- [Professional Skills Matrix and Action Plan](#professional-skills-matrix-and-action-plan)
+- [Artefacts](#artefacts)
+  - [Creating Agent Dialogues](#creating-agent-dialogues)
+  - [Creating Parse Trees](#creating-parse-trees)
+  - [Collaborative Discussions](#collaborative-discussions)
+  - [Deep Learning in Action](#deep-learning-in-action)
+- [References](#references)
+- [Appendices](#appendices)
+  - [Appendix A: Discussion Forum Posts](#appendix-a-discussion-forum-posts)
+    - [Discussion 1 - Agent Based Systems](#discussion-1---agent-based-systems)
+    - [Discussion 2 - Agent Communication Languages](#discussion-2---agent-communication-languages)
+    - [Discussion 3 - Ethics and Safety](#discussion-3---ethics-and-safety)
+  - [Appendix B: Deep Learning Forum Post](#appendix-b-deep-learning-forum-post)
+
 This module explores Intelligent Agents: software programs that understand their environment and act to achieve desired goals. Through a systematic approach, it covers individual agents and their interactions, agent-based system design, and state-of-the-art model deployment.
 
 ## Learning Outcomes
@@ -21,13 +42,13 @@ This module explores Intelligent Agents: software programs that understand their
 <p align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/noT3sM0fbfc" title="Multi-Agent System Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-<p align="center"><a href="https://github.com/julesrif/concept-genealogy">View on GitHub</a></p>
+<p align="center"><a href="https://github.com/julesrif/concept-genealogy" target="_blank">View on GitHub</a></p>
 
 ---
 
 ## Reflective Piece
 
-Transitioning from deterministic data engineering to stochastic multi-agent systems introduced significant observability challenges, demanding a shift toward defensive prompt engineering tailored to each model's latent behaviour. Historical BDI models initially seemed primitive compared to modern Model Context Protocols, yet their principle of separating state from execution proved fundamental to structuring LangGraph's orchestrator-worker decoupling. Autonomous systems also expose cost predictability issues, as iterative reasoning loops inflate token consumption; ensuring reliability requires architectural safeguards, such as hybrid pipelines pairing programmatic boundaries with adversarial LLM agents from different providers.
+Transitioning from deterministic data engineering to stochastic multi-agent systems introduced significant observability challenges, demanding a shift towards defensive prompt engineering tailored to each model's latent behaviour. Historical BDI models initially seemed primitive compared to modern Model Context Protocols, yet their principle of separating state from execution proved fundamental to structuring LangGraph's orchestrator-worker decoupling. Autonomous systems also expose cost predictability issues, as iterative reasoning loops inflate token consumption; ensuring reliability requires architectural safeguards, such as hybrid pipelines pairing programmatic boundaries with adversarial LLM agents from different providers.
 
 The transition from conceptual design (Week 6) to the implemented pipeline (Week 11) exposed friction between theoretical planning and working implementation. The Unit 6 design feedback flagged our three-retry limit as lacking recovery mechanisms. Empirical testing invalidated assumptions about Semantic Scholar coverage, forcing a four-level fallback strategy. Frequent HTTP 429 errors required automated exponential delay-retry mechanisms, while the initial lack of telemetry demanded backend JSON logging. These anomalies confirmed that Human-in-the-Loop (HITL) checkpoints are mandatory architectural controls rather than regulatory add-ons.
 
@@ -160,19 +181,19 @@ Socio-technical analysis of AI-driven crop protection published in the module fo
 ## References
 
 <a id="ref-anthropic-2024"></a>
-Anthropic (2024). 'Introducing the Model Context Protocol'. *Anthropic News*, 25 November. Available at: [https://www.anthropic.com/news/model-context-protocol](https://www.anthropic.com/news/model-context-protocol) (Accessed: 19 June 2026).
+Anthropic (2024). 'Introducing the Model Context Protocol'. *Anthropic News*, 25 November. Available at: <a href="https://www.anthropic.com/news/model-context-protocol" target="_blank">https://www.anthropic.com/news/model-context-protocol</a> (Accessed: 19 June 2026).
 
 <a id="ref-arrieta-2020"></a>
-Arrieta, A.B., et al. (2020) 'Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI', *Information Fusion*, 58, pp. 82–115. [doi:10.1016/j.inffus.2019.12.012](https://doi.org/10.1016/j.inffus.2019.12.012).
+Arrieta, A.B., et al. (2020) 'Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI', *Information Fusion*, 58, pp. 82–115. <a href="https://doi.org/10.1016/j.inffus.2019.12.012" target="_blank">doi:10.1016/j.inffus.2019.12.012</a>.
 
 <a id="ref-cemri-2025"></a>
-Cemri, M. et al. (2025) 'Why do multi-agent LLM systems fail?', *Advances in Neural Information Processing Systems (NeurIPS 2025 Datasets and Benchmarks Track)*. Available at: [https://proceedings.neurips.cc/paper_files/paper/2025/hash/b1041e52d3be19f0a9bc491657488e4a-Abstract-Datasets_and_Benchmarks_Track.html](https://proceedings.neurips.cc/paper_files/paper/2025/hash/b1041e52d3be19f0a9bc491657488e4a-Abstract-Datasets_and_Benchmarks_Track.html) (Accessed: 13 July 2026).
+Cemri, M. et al. (2025) 'Why do multi-agent LLM systems fail?', *Advances in Neural Information Processing Systems (NeurIPS 2025 Datasets and Benchmarks Track)*. Available at: <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/b1041e52d3be19f0a9bc491657488e4a-Abstract-Datasets_and_Benchmarks_Track.html" target="_blank">https://proceedings.neurips.cc/paper_files/paper/2025/hash/b1041e52d3be19f0a9bc491657488e4a-Abstract-Datasets_and_Benchmarks_Track.html</a> (Accessed: 13 July 2026).
 
 <a id="ref-du-2023"></a>
-Du, Y. et al. (2023) 'Improving factuality and reasoning in language models through multiagent debate', in *Proceedings of the 40th International Conference on Machine Learning (ICML), PMLR 202*, pp. 8480–8501. Available at: [https://proceedings.mlr.press/v202/du23f.html](https://proceedings.mlr.press/v202/du23f.html) (Accessed: 13 July 2026).
+Du, Y. et al. (2023) 'Improving factuality and reasoning in language models through multiagent debate', in *Proceedings of the 40th International Conference on Machine Learning (ICML), PMLR 202*, pp. 8480–8501. Available at: <a href="https://proceedings.mlr.press/v202/du23f.html" target="_blank">https://proceedings.mlr.press/v202/du23f.html</a> (Accessed: 13 July 2026).
 
 <a id="ref-mosqueira-2023"></a>
-Mosqueira-Rey, E. et al. (2023) 'Human-in-the-loop machine learning: A state of the art', *Artificial Intelligence Review*, 56, pp. 3005–3054. [doi:10.1007/s10462-022-10246-w](https://doi.org/10.1007/s10462-022-10246-w).
+Mosqueira-Rey, E. et al. (2023) 'Human-in-the-loop machine learning: A state of the art', *Artificial Intelligence Review*, 56, pp. 3005–3054. <a href="https://doi.org/10.1007/s10462-022-10246-w" target="_blank">doi:10.1007/s10462-022-10246-w</a>.
 
 ---
 
@@ -184,31 +205,31 @@ Mosqueira-Rey, E. et al. (2023) 'Human-in-the-loop machine learning: A state of 
 
 #### Discussion 1 - Agent Based Systems
 
-<p align="center"><img src="assets/media/image7.png" alt="Initial Post - Discussion 1" width="95%"></p>
-<p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=364062">View Initial Post in forum</a></p>
+<p align="center"><a href="assets/media/image7.png" target="_blank"><img src="assets/media/image7.png" alt="Initial Post - Discussion 1" width="95%"></a></p>
+<p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=364062" target="_blank">View Initial Post in forum</a></p>
 
-<p align="center"><img src="assets/media/image11.png" alt="Summary Post - Discussion 1" width="95%"></p>
-<p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=366616">View Summary Post in forum</a></p>
+<p align="center"><a href="assets/media/image11.png" target="_blank"><img src="assets/media/image11.png" alt="Summary Post - Discussion 1" width="95%"></a></p>
+<p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=366616" target="_blank">View Summary Post in forum</a></p>
 
 <a id="a4"></a>
 
 #### Discussion 2 - Agent Communication Languages
 
-<p align="center"><img src="assets/media/image12.png" alt="Initial Post - Discussion 2" width="95%"></p>
-<p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=370143">View Initial Post in forum</a></p>
+<p align="center"><a href="assets/media/image12.png" target="_blank"><img src="assets/media/image12.png" alt="Initial Post - Discussion 2" width="95%"></a></p>
+<p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=370143" target="_blank">View Initial Post in forum</a></p>
 
-<p align="center"><img src="assets/media/image14.png" alt="Summary Post - Discussion 2" width="95%"></p>
-<p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=370143#p748555">View Summary Post in forum</a></p>
+<p align="center"><a href="assets/media/image14.png" target="_blank"><img src="assets/media/image14.png" alt="Summary Post - Discussion 2" width="95%"></a></p>
+<p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=370143#p748555" target="_blank">View Summary Post in forum</a></p>
 
 <a id="a7"></a>
 
 #### Discussion 3 - Ethics and Safety
 
-<p align="center"><img src="assets/media/image15.png" alt="Initial Post - Discussion 3" width="95%"></p>
-<p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=372862">View Initial Post in forum</a></p>
+<p align="center"><a href="assets/media/image15.png" target="_blank"><img src="assets/media/image15.png" alt="Initial Post - Discussion 3" width="95%"></a></p>
+<p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=372862" target="_blank">View Initial Post in forum</a></p>
 
-<p align="center"><img src="assets/media/image18.png" alt="Summary Post - Discussion 3" width="95%"></p>
-<p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=377180">View Summary Post in forum</a></p>
+<p align="center"><a href="assets/media/image18.png" target="_blank"><img src="assets/media/image18.png" alt="Summary Post - Discussion 3" width="95%"></a></p>
+<p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=377180" target="_blank">View Summary Post in forum</a></p>
 
 ---
 
@@ -216,5 +237,5 @@ Mosqueira-Rey, E. et al. (2023) 'Human-in-the-loop machine learning: A state of 
 
 ### Appendix B: Deep Learning Forum Post
 
-<p align="center"><img src="assets/media/image27.png" alt="Figure B.1 - Deep Learning in Action Forum Post" width="95%"></p>
-<p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=377255">View post in forum</a></p>
+<p align="center"><a href="assets/media/image27.png" target="_blank"><img src="assets/media/image27.png" alt="Figure B.1 - Deep Learning in Action Forum Post" width="95%"></a></p>
+<p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=377255" target="_blank">View post in forum</a></p>

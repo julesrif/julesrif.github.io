@@ -25,11 +25,14 @@ Currently serving as a Senior Data Engineer at BASF (Madrid), focusing on Azure 
 
 ---
 
-## Module
+## Modules
 
 | Module | Page |
 |---|---|
-| Intelligent Agents | [View Reflection](intelligent-agents) |
+| Launch Into Computing | [View](computing-intro) |
+| Understanding AI | [View](understanding-ai) |
+| Numerical Analysis | [View](numerical-analysis) |
+| Intelligent Agents | [View](intelligent-agents) |
 
 ---
 
