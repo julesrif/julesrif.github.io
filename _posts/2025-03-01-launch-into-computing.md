@@ -20,7 +20,7 @@ A comprehensive introduction to core computing disciplines, including Software E
 - **Collaborative Discussion:** AI and RAG-based semantic search applied to chemical plant maintenance.
 - **Reflective Practice:** Comparative reflection between local and cloud storage models.
 - **Final Essay:** AI governance, ethics, and the role of GDPR in responsible innovation.
-- **Programming Project:** AES-128 file encryption tool — Python vs C++ comparison.
+- **Programming Project:** AES-128 file encryption tool - Python vs C++ comparison.
 
 ---
 

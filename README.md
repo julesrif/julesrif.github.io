@@ -1,4 +1,4 @@
-# ePortfolio — MSc in Artificial Intelligence
+# ePortfolio - MSc in Artificial Intelligence
 
 University of Essex Online
 

@@ -181,20 +181,17 @@ Socio-technical analysis of AI-driven crop protection published in the module fo
 
 ## References
 
-<a id="ref-anthropic-2024"></a>
-Anthropic (2024). 'Introducing the Model Context Protocol'. *Anthropic News*, 25 November. Available at: <a href="https://www.anthropic.com/news/model-context-protocol" target="_blank">https://www.anthropic.com/news/model-context-protocol</a> (Accessed: 19 June 2026).
-
 <a id="ref-arrieta-2020"></a>
-Arrieta, A.B., et al. (2020) 'Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI', *Information Fusion*, 58, pp. 82–115. <a href="https://doi.org/10.1016/j.inffus.2019.12.012" target="_blank">doi:10.1016/j.inffus.2019.12.012</a>.
+Arrieta, A.B., et al. (2020) 'Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI', *Information Fusion*, 58, pp. 82-115. <a href="https://doi.org/10.1016/j.inffus.2019.12.012" target="_blank">doi:10.1016/j.inffus.2019.12.012</a>.
 
 <a id="ref-cemri-2025"></a>
 Cemri, M. et al. (2025) 'Why do multi-agent LLM systems fail?', *Advances in Neural Information Processing Systems (NeurIPS 2025 Datasets and Benchmarks Track)*. Available at: <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/b1041e52d3be19f0a9bc491657488e4a-Abstract-Datasets_and_Benchmarks_Track.html" target="_blank">https://proceedings.neurips.cc/paper_files/paper/2025/hash/b1041e52d3be19f0a9bc491657488e4a-Abstract-Datasets_and_Benchmarks_Track.html</a> (Accessed: 13 July 2026).
 
 <a id="ref-du-2023"></a>
-Du, Y. et al. (2023) 'Improving factuality and reasoning in language models through multiagent debate', in *Proceedings of the 40th International Conference on Machine Learning (ICML), PMLR 202*, pp. 8480–8501. Available at: <a href="https://proceedings.mlr.press/v202/du23f.html" target="_blank">https://proceedings.mlr.press/v202/du23f.html</a> (Accessed: 13 July 2026).
+Du, Y. et al. (2023) 'Improving factuality and reasoning in language models through multiagent debate', in *Proceedings of the 40th International Conference on Machine Learning (ICML), PMLR 202*, pp. 8480-8501. Available at: <a href="https://proceedings.mlr.press/v202/du23f.html" target="_blank">https://proceedings.mlr.press/v202/du23f.html</a> (Accessed: 13 July 2026).
 
 <a id="ref-mosqueira-2023"></a>
-Mosqueira-Rey, E. et al. (2023) 'Human-in-the-loop machine learning: A state of the art', *Artificial Intelligence Review*, 56, pp. 3005–3054. <a href="https://doi.org/10.1007/s10462-022-10246-w" target="_blank">doi:10.1007/s10462-022-10246-w</a>.
+Mosqueira-Rey, E. et al. (2023) 'Human-in-the-loop machine learning: A state of the art', *Artificial Intelligence Review*, 56, pp. 3005-3054. <a href="https://doi.org/10.1007/s10462-022-10246-w" target="_blank">doi:10.1007/s10462-022-10246-w</a>.
 
 ---
 
@@ -206,30 +203,30 @@ Mosqueira-Rey, E. et al. (2023) 'Human-in-the-loop machine learning: A state of 
 
 #### Discussion 1 - Agent Based Systems
 
-<p align="center"><a href="/assets/media/image7.png" target="_blank"><img src="/assets/media/image7.png" alt="Initial Post - Discussion 1" width="95%"></a></p>
+<p align="center"><img src="/assets/media/image7.png" alt="Initial Post - Discussion 1" width="95%"></p>
 <p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=364062" target="_blank">View Initial Post in forum</a></p>
 
-<p align="center"><a href="/assets/media/image11.png" target="_blank"><img src="/assets/media/image11.png" alt="Summary Post - Discussion 1" width="95%"></a></p>
+<p align="center"><img src="/assets/media/image11.png" alt="Summary Post - Discussion 1" width="95%"></p>
 <p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=366616" target="_blank">View Summary Post in forum</a></p>
 
 <a id="a4"></a>
 
 #### Discussion 2 - Agent Communication Languages
 
-<p align="center"><a href="/assets/media/image12.png" target="_blank"><img src="/assets/media/image12.png" alt="Initial Post - Discussion 2" width="95%"></a></p>
+<p align="center"><img src="/assets/media/image12.png" alt="Initial Post - Discussion 2" width="95%"></p>
 <p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=370143" target="_blank">View Initial Post in forum</a></p>
 
-<p align="center"><a href="/assets/media/image14.png" target="_blank"><img src="/assets/media/image14.png" alt="Summary Post - Discussion 2" width="95%"></a></p>
+<p align="center"><img src="/assets/media/image14.png" alt="Summary Post - Discussion 2" width="95%"></p>
 <p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=370143#p748555" target="_blank">View Summary Post in forum</a></p>
 
 <a id="a7"></a>
 
 #### Discussion 3 - Ethics and Safety
 
-<p align="center"><a href="/assets/media/image15.png" target="_blank"><img src="/assets/media/image15.png" alt="Initial Post - Discussion 3" width="95%"></a></p>
+<p align="center"><img src="/assets/media/image15.png" alt="Initial Post - Discussion 3" width="95%"></p>
 <p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=372862" target="_blank">View Initial Post in forum</a></p>
 
-<p align="center"><a href="/assets/media/image18.png" target="_blank"><img src="/assets/media/image18.png" alt="Summary Post - Discussion 3" width="95%"></a></p>
+<p align="center"><img src="/assets/media/image18.png" alt="Summary Post - Discussion 3" width="95%"></p>
 <p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=377180" target="_blank">View Summary Post in forum</a></p>
 
 ---
@@ -238,5 +235,5 @@ Mosqueira-Rey, E. et al. (2023) 'Human-in-the-loop machine learning: A state of 
 
 ### Appendix B: Deep Learning Forum Post
 
-<p align="center"><a href="/assets/media/image27.png" target="_blank"><img src="/assets/media/image27.png" alt="Figure B.1 - Deep Learning in Action Forum Post" width="95%"></a></p>
+<p align="center"><img src="/assets/media/image27.png" alt="Figure B.1 - Deep Learning in Action Forum Post" width="95%"></p>
 <p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=377255" target="_blank">View post in forum</a></p>

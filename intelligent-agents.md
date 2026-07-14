@@ -187,16 +187,16 @@ Socio-technical analysis of AI-driven crop protection published in the module fo
 Anthropic (2024). 'Introducing the Model Context Protocol'. *Anthropic News*, 25 November. Available at: <a href="https://www.anthropic.com/news/model-context-protocol" target="_blank">https://www.anthropic.com/news/model-context-protocol</a> (Accessed: 19 June 2026).
 
 <a id="ref-arrieta-2020"></a>
-Arrieta, A.B., et al. (2020) 'Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI', *Information Fusion*, 58, pp. 82–115. <a href="https://doi.org/10.1016/j.inffus.2019.12.012" target="_blank">doi:10.1016/j.inffus.2019.12.012</a>.
+Arrieta, A.B., et al. (2020) 'Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI', *Information Fusion*, 58, pp. 82-115. <a href="https://doi.org/10.1016/j.inffus.2019.12.012" target="_blank">doi:10.1016/j.inffus.2019.12.012</a>.
 
 <a id="ref-cemri-2025"></a>
 Cemri, M. et al. (2025) 'Why do multi-agent LLM systems fail?', *Advances in Neural Information Processing Systems (NeurIPS 2025 Datasets and Benchmarks Track)*. Available at: <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/b1041e52d3be19f0a9bc491657488e4a-Abstract-Datasets_and_Benchmarks_Track.html" target="_blank">https://proceedings.neurips.cc/paper_files/paper/2025/hash/b1041e52d3be19f0a9bc491657488e4a-Abstract-Datasets_and_Benchmarks_Track.html</a> (Accessed: 13 July 2026).
 
 <a id="ref-du-2023"></a>
-Du, Y. et al. (2023) 'Improving factuality and reasoning in language models through multiagent debate', in *Proceedings of the 40th International Conference on Machine Learning (ICML), PMLR 202*, pp. 8480–8501. Available at: <a href="https://proceedings.mlr.press/v202/du23f.html" target="_blank">https://proceedings.mlr.press/v202/du23f.html</a> (Accessed: 13 July 2026).
+Du, Y. et al. (2023) 'Improving factuality and reasoning in language models through multiagent debate', in *Proceedings of the 40th International Conference on Machine Learning (ICML), PMLR 202*, pp. 8480-8501. Available at: <a href="https://proceedings.mlr.press/v202/du23f.html" target="_blank">https://proceedings.mlr.press/v202/du23f.html</a> (Accessed: 13 July 2026).
 
 <a id="ref-mosqueira-2023"></a>
-Mosqueira-Rey, E. et al. (2023) 'Human-in-the-loop machine learning: A state of the art', *Artificial Intelligence Review*, 56, pp. 3005–3054. <a href="https://doi.org/10.1007/s10462-022-10246-w" target="_blank">doi:10.1007/s10462-022-10246-w</a>.
+Mosqueira-Rey, E. et al. (2023) 'Human-in-the-loop machine learning: A state of the art', *Artificial Intelligence Review*, 56, pp. 3005-3054. <a href="https://doi.org/10.1007/s10462-022-10246-w" target="_blank">doi:10.1007/s10462-022-10246-w</a>.
 
 ---
 
