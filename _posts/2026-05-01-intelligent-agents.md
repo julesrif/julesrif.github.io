@@ -85,7 +85,7 @@ The transition from conceptual design (Week 6) to the implemented pipeline (Week
 ## Professional Skills Matrix and Action Plan
 
 <p align="center">
-  <img src="assets/media/image5.png" alt="Table 1 - Core skills development summary" width="90%">
+  <img src="/assets/media/image5.png" alt="Table 1 - Core skills development summary" width="90%">
 </p>
 <p align="center"><em><strong>Table 1.</strong> Core skills development summary</em></p>
 
@@ -93,7 +93,7 @@ The most significant development occurred in Agent-Based Systems Engineering, mo
 
 <a id="table-2"></a>
 <p align="center">
-  <img src="assets/media/image6.png" alt="Table 2 - Professional Development Plan" width="90%">
+  <img src="/assets/media/image6.png" alt="Table 2 - Professional Development Plan" width="90%">
 </p>
 <p align="center"><em><strong>Table 2.</strong> Professional Development Plan</em></p>
 
@@ -148,22 +148,22 @@ KQML/KIF dialogue between two agents - Alice (procurement) and Bob (warehouse st
 Constituency-based parse trees demonstrating PP-attachment ambiguity:
 
 <p align="center">
-  <img src="assets/media/image1.png" alt="Parse Tree: The government raised interest rates" width="70%">
+  <img src="/assets/media/image1.png" alt="Parse Tree: The government raised interest rates" width="70%">
 </p>
 <p align="center"><em><strong>Figure 1.</strong> Parse Tree: "The government raised interest rates."</em></p>
 
 <p align="center">
-  <img src="assets/media/image2.png" alt="Parse Tree: The internet gives everyone a voice" width="70%">
+  <img src="/assets/media/image2.png" alt="Parse Tree: The internet gives everyone a voice" width="70%">
 </p>
 <p align="center"><em><strong>Figure 2.</strong> Parse Tree: "The internet gives everyone a voice."</em></p>
 
 <p align="center">
-  <img src="assets/media/image3.png" alt="Parse Tree: The man saw the dog with the telescope - Option A" width="70%">
+  <img src="/assets/media/image3.png" alt="Parse Tree: The man saw the dog with the telescope - Option A" width="70%">
 </p>
 <p align="center"><em><strong>Figure 3.</strong> Option A: The man used the telescope to see the dog</em></p>
 
 <p align="center">
-  <img src="assets/media/image4.png" alt="Parse Tree: The man saw the dog with the telescope - Option B" width="70%">
+  <img src="/assets/media/image4.png" alt="Parse Tree: The man saw the dog with the telescope - Option B" width="70%">
 </p>
 <p align="center"><em><strong>Figure 4.</strong> Option B: The man saw a dog that was in possession of a telescope</em></p>
 
@@ -206,30 +206,30 @@ Mosqueira-Rey, E. et al. (2023) 'Human-in-the-loop machine learning: A state of 
 
 #### Discussion 1 - Agent Based Systems
 
-<p align="center"><a href="assets/media/image7.png" target="_blank"><img src="assets/media/image7.png" alt="Initial Post - Discussion 1" width="95%"></a></p>
+<p align="center"><a href="/assets/media/image7.png" target="_blank"><img src="/assets/media/image7.png" alt="Initial Post - Discussion 1" width="95%"></a></p>
 <p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=364062" target="_blank">View Initial Post in forum</a></p>
 
-<p align="center"><a href="assets/media/image11.png" target="_blank"><img src="assets/media/image11.png" alt="Summary Post - Discussion 1" width="95%"></a></p>
+<p align="center"><a href="/assets/media/image11.png" target="_blank"><img src="/assets/media/image11.png" alt="Summary Post - Discussion 1" width="95%"></a></p>
 <p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=366616" target="_blank">View Summary Post in forum</a></p>
 
 <a id="a4"></a>
 
 #### Discussion 2 - Agent Communication Languages
 
-<p align="center"><a href="assets/media/image12.png" target="_blank"><img src="assets/media/image12.png" alt="Initial Post - Discussion 2" width="95%"></a></p>
+<p align="center"><a href="/assets/media/image12.png" target="_blank"><img src="/assets/media/image12.png" alt="Initial Post - Discussion 2" width="95%"></a></p>
 <p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=370143" target="_blank">View Initial Post in forum</a></p>
 
-<p align="center"><a href="assets/media/image14.png" target="_blank"><img src="assets/media/image14.png" alt="Summary Post - Discussion 2" width="95%"></a></p>
+<p align="center"><a href="/assets/media/image14.png" target="_blank"><img src="/assets/media/image14.png" alt="Summary Post - Discussion 2" width="95%"></a></p>
 <p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=370143#p748555" target="_blank">View Summary Post in forum</a></p>
 
 <a id="a7"></a>
 
 #### Discussion 3 - Ethics and Safety
 
-<p align="center"><a href="assets/media/image15.png" target="_blank"><img src="assets/media/image15.png" alt="Initial Post - Discussion 3" width="95%"></a></p>
+<p align="center"><a href="/assets/media/image15.png" target="_blank"><img src="/assets/media/image15.png" alt="Initial Post - Discussion 3" width="95%"></a></p>
 <p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=372862" target="_blank">View Initial Post in forum</a></p>
 
-<p align="center"><a href="assets/media/image18.png" target="_blank"><img src="assets/media/image18.png" alt="Summary Post - Discussion 3" width="95%"></a></p>
+<p align="center"><a href="/assets/media/image18.png" target="_blank"><img src="/assets/media/image18.png" alt="Summary Post - Discussion 3" width="95%"></a></p>
 <p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=377180" target="_blank">View Summary Post in forum</a></p>
 
 ---
@@ -238,5 +238,5 @@ Mosqueira-Rey, E. et al. (2023) 'Human-in-the-loop machine learning: A state of 
 
 ### Appendix B: Deep Learning Forum Post
 
-<p align="center"><a href="assets/media/image27.png" target="_blank"><img src="assets/media/image27.png" alt="Figure B.1 - Deep Learning in Action Forum Post" width="95%"></a></p>
+<p align="center"><a href="/assets/media/image27.png" target="_blank"><img src="/assets/media/image27.png" alt="Figure B.1 - Deep Learning in Action Forum Post" width="95%"></a></p>
 <p align="center"><a href="https://www.my-course.co.uk/mod/forum/discuss.php?d=377255" target="_blank">View post in forum</a></p>
